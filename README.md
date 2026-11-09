@@ -15,7 +15,7 @@ Support message -> local model classifies it -> ticket is created.
 - Jira Software Cloud (free plan; each message becomes an issue)
 
 ## Results
-I tested it with 15 sample support messages: N of 15 were classified correctly.
+I tested it with 15 sample support messages: 13 of 15 were classified correctly.
 
 ## Files
 - workflow.json: the exported n8n workflow (no credentials included)
