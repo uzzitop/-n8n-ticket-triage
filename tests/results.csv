@@ -1,0 +1,16 @@
+n;mensaje;esperada;modelo;acierto
+1;La máquina 12 no cobra con tarjeta desde hace 2 horas.;pago;pago;si
+2;Me cobraron dos veces en la máquina de la entrada.;pago;pago;si
+3;El lector de tarjetas dice «error de comunicación».;pago;hardware;no
+4;La máquina 7 dejó de reportar ventas desde ayer.;conectividad;conectividad;si
+5;No puedo ver el panel de control, me sale «sin conexión».;conectividad;conectividad;si
+6;El módem de la máquina 3 tiene la luz roja.;conectividad;conectividad;si
+7;La puerta de la máquina 5 no cierra bien.;hardware;hardware;si
+8;El refrigerador de la máquina 9 hace mucho ruido y no enfría.;hardware;hardware;si
+9;El motor del carrusel se atora con las bolsas grandes.;hardware;hardware;si
+10;¿Cómo puedo cambiar los precios de los productos?;otro;otro;si
+11;Necesito una factura del mes pasado.;otro;pago;no
+12;Quiero agregar un usuario nuevo a mi cuenta.;otro;otro;si
+13;La pantalla táctil de la máquina 2 no responde al tacto.;hardware;hardware;si
+14;Mi cuenta dice que la máquina 8 está fuera de línea pero sí está encendida.;conectividad;conectividad;si
+15;Gracias por la ayuda de ayer, ya quedó resuelto.;otro;otro;si
